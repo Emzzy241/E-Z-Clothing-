@@ -4,9 +4,62 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: lightsalmon;
+}
+
+.banner{
+    background-image: url(../img/13.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    min-height: 450px;
+    max-height: 550px;
+}
 
 ul label{
     color: white;
     font-size: 25px;
-    margin-right: 700px;
+    margin-right: 280px;
 }
+
+
+
+
+
+.banner .words{
+    margin-top: 15%;
+    margin-left: 50%;
+    text-align: center;
+}
+.banner .words h1,p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: capitalize;
+    color: black;
+}
+
+.banner .words h4,h5,h6{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styling men.html  */
+
+/* Styling the banner for men.html  */
