@@ -1,0 +1,12 @@
+/* styling the universal selector  */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul label{
+    color: white;
+    font-size: 25px;
+    margin-right: 700px;
+}
