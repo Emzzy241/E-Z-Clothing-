@@ -11,6 +11,7 @@ body{
     background-size: cover;
 }
 
+/* The purpose of this is to make our site responsive to any type of device  */
 .banner{
     background-image: url(../img/);
     background-repeat: no-repeat;
@@ -50,23 +51,3 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Styling men.html  */
-
-/* Styling the banner for men.html  */
