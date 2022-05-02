@@ -6,10 +6,13 @@
 }
 body{
     background-color: lightsalmon;
+    background-image: url(../img/images\ -\ 2022-05-01T150703.454.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .banner{
-    background-image: url(../img/13.png);
+    background-image: url(../img/);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -21,6 +24,10 @@ ul label{
     color: white;
     font-size: 25px;
     margin-right: 280px;
+}
+h2{
+    color: black;
+    text-align: center;
 }
 
 
@@ -39,7 +46,7 @@ ul label{
 }
 
 .banner .words h4,h5,h6{
-    color: white;
+    color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
